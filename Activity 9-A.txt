@@ -1,0 +1,59 @@
+<IDOCTYPE html>
+<html>
+    <head>
+        <br>
+        <h1><center>Student Profile</center></h1>
+    </head>
+
+<body>
+    <header>
+        <p><center><img src="C:\Users\admin\Pictures\april.jpg" width="150" length="180"></center></p>
+        <h1><center>Fredelynnn Ann H. Orlino</center></h1>
+    </header>
+
+    <div class="data">
+        <section class="information">
+            <hr>
+            <h2 class="section-title">Personal Information</h2>
+            <hr>
+                <p><strong>Date of Birth:</strong> April 13, 2005</p>
+                <p><strong>Gender:</strong> Female</p>
+                <p><strong>Contact Number:</strong> 09368084022</p>
+                <p><strong>Email Address:</strong> s.orlino.fredelynnann@cmu.edu.ph</p>
+                <p><strong>Address:</strong> P-9A DONHAI Dologon, Maramag, Bukidnon</p>
+        </section>
+
+        <section class="education">
+            <hr>
+            <h2 class="section-title">Educational Background</h2>
+            <hr>
+                <p><strong>Elementary:</strong> Musuan Elementary School</p>
+                <p><strong>Secondary:</strong> Dologon National High School</p>
+        </section>
+
+        <section class="hobbies">
+            <hr>
+            <h2 class="section-title">Hobbies</h2>
+            <hr>
+                <p>•	Reading</p>
+                <p>•	Watching Movies</p>
+                <p>•	Browsing in the inernet</p>
+                <p>•	Designing</p>
+        </section>
+
+        <section class="skills">
+            <hr>
+            <h2 class="section-title">Skills</h2>
+            <hr>
+                <p>•	Critical Thinking</p>
+                <p>•	Time Management</p>
+                <p>•	Creativity</p>
+        </section>
+
+    </div>
+    <hr>
+    <footer>
+        <p><center>&copy; 2024 Fredelynn Ann H. Orlino | All Rights Reserved</center></p>
+    </footer>
+</body>
+</html>
